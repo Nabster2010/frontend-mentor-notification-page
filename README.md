@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/frontend-mentor-notification-page)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://clinquant-concha-c1f021.netlify.app/)
 
 ### Built with
 
